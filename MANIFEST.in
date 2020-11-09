@@ -1,0 +1,4 @@
+include README.rst
+include LICENSE
+include requirements.txt
+recursive-include ckanext/middleware_test *.html *.json *.js *.less *.css *.mo
